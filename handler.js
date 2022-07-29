@@ -7,7 +7,7 @@ const { serialize } = require("./lib/serialize");
 const fs = require("fs");
 const { color, getAdmin, isUrl } = require("./lib");
 const cooldown = new Map();
-const prefix = "#";
+const prefix = ".";
 const multi_pref = new RegExp("^[" + "!#%&?/;:,.~-+=".replace(/[|\\{}()[\]^$+*?.\-\^]/g, "\\$&") + "]");
 const owner = config.owner;
 function printSpam(conn, isGc, sender, groupName) {
