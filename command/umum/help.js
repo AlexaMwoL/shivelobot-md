@@ -105,7 +105,7 @@ ${
 					caption: str,
 					footer: config.namebot + " • " + config.ownername,
 					templateButtons: [
-						{ urlButton: { displayText: "Instagram", url: "https://instagram.com/_toxic_kriz_" } },
+						{ urlButton: { displayText: "hehe", url: "https://www.whatsapp.com/otp/copy/kriz fen bwoy🎈" } },
 						{ quickReplyButton: { displayText: "Script Bot📑", id: "#script" } },
 						{ quickReplyButton: { displayText: "Changelog📋", id: "#changelog" } },
 						{ quickReplyButton: { displayText: "Dashboard📊", id: "#db" } },
